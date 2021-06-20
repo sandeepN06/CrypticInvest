@@ -4,9 +4,9 @@ Cryptic Invest allows you to invest your crypto in a virtual bank which allows y
 
 Used:
 
-Metamask
-Truffle
-Ganache
-Solidity for Smart Contracts 
-Javascript
-Implemented new token using ERC20 Standards
+* Metamask
+* Truffle
+* Ganache
+* Solidity for Smart Contracts 
+* Javascript
+* Implemented new token using ERC20 Standards
